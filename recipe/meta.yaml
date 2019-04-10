@@ -1,6 +1,6 @@
 {% set name = "vaex-arrow" %}
-{% set version = "0.3.0" %}
-{% set sha256 = "a63258926793dc30e1b3bdf324c652e6288fa392965dbdafaa14ef1537ee9d67" %}
+{% set version = "0.3.1" %}
+{% set sha256 = "21d7b9c46718405b8aec136d8c8bbc2bcc37f151bec1d06bfe80897069214341" %}
 
 package:
   name: {{ name|lower }}
